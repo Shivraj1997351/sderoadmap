@@ -1,0 +1,9 @@
+PWA(Progressive web application)
+
+Web sockets,   CORS,   JSON,   Rest API,  GraphQL API,  Basic security
+
+
+
+Tools(ES Lint, Prettier)
+
+Module bundler(Webpack)  

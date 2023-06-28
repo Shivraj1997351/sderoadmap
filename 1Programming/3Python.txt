@@ -1,0 +1,3 @@
+https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg      (Python beginners)
+https://youtube.com/playlist?list=PLI4OVrCFuY556CXnJal2pVbzhz0TOxwd_  (Advance python)
+https://youtube.com/playlist?list=PLrk5tgtnMN6TYBW0-U4YhIRyYEVpqVEnJ (Python DSA)

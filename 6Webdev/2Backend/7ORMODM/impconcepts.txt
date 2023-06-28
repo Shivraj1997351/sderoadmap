@@ -1,0 +1,23 @@
+Authentication,
+OAuth,
+HAshing(bcrypt),
+Rate limiting,
+Reverse proxy,
+Load balancer,
+Documentation(SWagger)
+
+
+Template engine(ejs/pug)
+
+
+Linux,  Terminal(CLI), Git,  Basic networking, Web security,  Payment gateways, testing
+
+
+Deployment(Google cloud, digital ocean, AWS, Heroku)
+
+
+
+Extra things--> Docker, Performance, Scalability,  Kubernates
+
+
+Tools specially for backend(NPM, Yarn, Postman) 

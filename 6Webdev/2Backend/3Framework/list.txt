@@ -1,0 +1,28 @@
+JS Related
+
+Node js(https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)
+
+Express.js,  Nest.js
+
+
+Python Related
+
+
+Django(https://youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6),    Flask(https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) 
+
+
+PHP Related
+
+Laravel(https://youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR)
+
+
+Ruby Related
+
+Rails(https://youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
+
+
+Java(Spring boot, https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q)                            
+
+Go(Gin, https://youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)               
+
+C#(Asp.net, https://youtube.com/playlist?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo)

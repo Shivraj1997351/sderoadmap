@@ -1,0 +1,9 @@
+HTTP/HTTPS
+
+REST
+
+GRAPHQL
+
+WebSockets
+
+CORS,  MVC architecture,  CI/CD
